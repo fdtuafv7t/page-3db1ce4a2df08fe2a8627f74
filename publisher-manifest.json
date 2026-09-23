@@ -1,0 +1,122 @@
+{
+  "version": 2,
+  "template_version": "d39ce472eeb3cc3f10e7",
+  "page_size": 20,
+  "site_id": "848d9261d602d6fd3022971b",
+  "owner": "fdtuafv7t",
+  "repo": "page-3db1ce4a2df08fe2a8627f74",
+  "title": "UCSS",
+  "mode": "repo",
+  "articles": [
+    {
+      "id": "3db1ce4a2df08fe2a8627f74",
+      "a": "UCSS",
+      "b": "机场官网线路发布页",
+      "entity": "UCSS",
+      "brand": "UCSS",
+      "separator": "|",
+      "path": "index.html",
+      "hash": "8af19d087237828eebd9665e3ce9a05b0716f0c48b77d2ef2658f7794b2b53ac",
+      "content": {
+        "primary_entity": "UCSS",
+        "keyword1": "UCSS",
+        "keyword2": "机场官网线路发布页",
+        "content": {
+          "AI_CLIENTS_INTRO": "按设备类型选择对应客户端，Windows 与 macOS 可选 Clash Verge、Mihomo Party，iOS 可选 Shadowrocket、Stash，Android 可选 Clash Meta for Android、Surfboard，路由器端可用 OpenWrt 搭配 PassWall。",
+          "AI_CLIENTS_TITLE": "客户端按设备对号入座",
+          "AI_CLOSING_TEXT": "先确认设备数量与流量需求，再进入 UCSS 订阅配置页面完成设置。",
+          "AI_CLOSING_TITLE": "选对套餐再出发",
+          "AI_DESCRIPTION": "，UCSS 提供基础版、旗舰版与团队版三档订阅，月付价格分别为 ¥15、¥35 和 ¥85，按年付可享优惠价 ¥150、¥350 与 ¥850。流量额度从每月 100GB 到 1000GB，设备同时在线数量覆盖 3 台到 20 台，适配个人、家庭与小型团队的不同场景。旗舰版与团队版提供原生流媒体解锁和专线优化，团队版还支持定制路由与专属客户经理。",
+          "AI_FAQ_ANSWER_1": "基础版每月 100GB 流量、支持 3 台设备，适合手机加电脑的轻度使用。旗舰版每月 300GB、支持 5 台设备，并包含流媒体解锁与专线优化，适合多设备常有视频需求的用户。",
+          "AI_FAQ_ANSWER_2": "打开所选客户端，找到订阅或配置文件导入选项，将 UCSS 提供的订阅链接粘贴进去，保存后更新节点列表即可。不同客户端菜单名称略有差异，参照对应文档操作即可。",
+          "AI_FAQ_ANSWER_3": "基础版可同时在线 3 台设备，旗舰版 5 台，团队版 20 台。如果家里多部手机、电脑、平板需要同时连接，建议直接选择旗舰版或团队版，避免频繁切换设备。",
+          "AI_FAQ_ANSWER_4": "月付适合短期试用或流量需求波动较大的情况，按年付则把基础版降至 ¥150/年、旗舰版 ¥350/年、团队版 ¥850/年，长期使用更划算。可先月付体验，确认线路与速度后再转年付。",
+          "AI_FAQ_ANSWER_5": "旗舰版包含 IPLC 专线游戏加速优化，适合对延迟敏感的游戏场景；团队版提供 VIP 专属高带宽节点，适合多设备同时在线的小团队。如果主要用来看视频和浏览网页，基础版已经够用。",
+          "AI_FAQ_INTRO": "订阅导入、设备限制与付费周期。",
+          "AI_FAQ_QUESTION_1": "基础版和旗舰版有什么区别？",
+          "AI_FAQ_QUESTION_2": "UCSS 订阅怎么导入客户端？",
+          "AI_FAQ_QUESTION_3": "一个账号能同时几台设备使用？",
+          "AI_FAQ_QUESTION_4": "月付和按年付怎么选？",
+          "AI_FAQ_QUESTION_5": "游戏加速适合选哪个套餐？",
+          "AI_FAQ_TITLE": "常见问题速览",
+          "AI_FEATURES_INTRO": "从套餐档位、设备数量与订阅周期三个角度入手，帮助梳理 UCSS 的选择思路。",
+          "AI_FEATURES_TITLE": "三件事帮你理清选择",
+          "AI_FEATURE_TEXT_1": "基础版每月 100GB 与 3 台设备，旗舰版 300GB 与 5 台设备，团队版 1000GB 与 20 台设备，按需匹配即可。",
+          "AI_FEATURE_TEXT_2": "手机、电脑、平板、路由器都可能需要配置，先统计常用设备的数量，再对照套餐上限选择，避免超额。",
+          "AI_FEATURE_TEXT_3": "月付灵活、年付优惠，基础版年付 ¥150、旗舰版 ¥350、团队版 ¥850，长期使用可优先考虑年付方案。",
+          "AI_FEATURE_TITLE_1": "按档位对比套餐",
+          "AI_FEATURE_TITLE_2": "按设备数量匹配",
+          "AI_FEATURE_TITLE_3": "按订阅周期权衡",
+          "AI_GUIDE_INTRO": "确认流量额度、设备上限与常用客户端，再按套餐档位完成选择。",
+          "AI_GUIDE_TITLE": "三步完成订阅配置",
+          "AI_HERO_INTRO": "UCSS 提供基础版、旗舰版与团队版三档海外加速订阅，月付价格从 ¥15 到 ¥85，流量覆盖每月 100GB 至 1000GB，设备同时在线数量从 3 台到 20 台，按个人或团队的实际需求选择即可。",
+          "AI_HERO_SUBTITLE": "三档套餐覆盖个人与团队",
+          "AI_HIGHLIGHT_1": "基础版 ¥15/月，100GB 流量",
+          "AI_HIGHLIGHT_2": "旗舰版 ¥35/月，含专线优化",
+          "AI_HIGHLIGHT_3": "团队版 ¥85/月，20 台设备",
+          "AI_PLANS_INTRO": "基础版 ¥15/月、旗舰版 ¥35/月、团队版 ¥85/月，按年付分别为 ¥150、¥350 与 ¥850。流量从 100GB 到 1000GB，设备数量从 3 台到 20 台，对照自己的使用场景选择对应档位即可。",
+          "AI_PLANS_TITLE": "三档套餐按需选择",
+          "AI_STEP_TEXT_1": "对照基础版、旗舰版与团队版的流量、设备数量与价格，确认适合当前使用场景的档位。",
+          "AI_STEP_TEXT_2": "核对常用设备的操作系统与客户端类型，确认所选套餐的设备上限能够覆盖日常同时在线的需求。",
+          "AI_STEP_TEXT_3": "在对应客户端中导入 UCSS 订阅链接，更新节点后按文档完成基础连接配置。",
+          "AI_STEP_TITLE_1": "选择适合的套餐",
+          "AI_STEP_TITLE_2": "查看设备适配要求",
+          "AI_STEP_TITLE_3": "按客户端文档配置订阅",
+          "AI_VISUAL_TITLE": "UCSS 三档订阅任你选"
+        },
+        "plans": [
+          {
+            "name": "基础版",
+            "price": "¥15/月",
+            "annual_price": "按年付仅需 ¥150/年",
+            "features": [
+              "每月 100GB 极速流量",
+              "支持 3 台设备同时在线",
+              "解锁基础流媒体",
+              "普通线路节点池"
+            ]
+          },
+          {
+            "name": "旗舰版",
+            "price": "¥35/月",
+            "annual_price": "按年付仅需 ¥350/年",
+            "featured": true,
+            "features": [
+              "每月 300GB 极速流量",
+              "支持 5 台设备同时在线",
+              "全节点原生流媒体解锁",
+              "IPLC 专线游戏加速优化",
+              "7x24 优先工单支持"
+            ]
+          },
+          {
+            "name": "团队版",
+            "price": "¥85/月",
+            "annual_price": "按年付仅需 ¥850/年",
+            "features": [
+              "每月 1000GB 极速流量",
+              "支持 20 台设备同时在线",
+              "VIP 专属高带宽节点",
+              "支持企业定制路由",
+              "专属客户经理服务"
+            ]
+          }
+        ],
+        "clients": []
+      }
+    }
+  ],
+  "domain": {
+    "apex": "faqutow.cn",
+    "host": "faqutow.cn"
+  },
+  "file_hashes": {
+    "index.html": "86921cee55b29a77cb4fa937a8b5a87ff8f16ef747d5c3dd1a6d52bf2a3ed9e0",
+    "sitemap.xml": "fcb499c38e1298ff2196c521b5925e011134138a3469c190058e2aa1a53f057e",
+    ".nojekyll": "12ae32cb1ec02d01eda3581b127c1fee3b0dc53572ed6baf239721a03d82e126",
+    "CNAME": "51df4ab4a1afd13fb598f4402557b6393e5dbeac058aa1be1312e3db2351784d",
+    "robots.txt": "680bba516da025613c14a4a4a8017443cac8ab61cc005b4c1e36b5aa430312f2",
+    "daeb3169c4ea248861d3dad494acdd71.txt": "377e3c537b8ac7478964cde6783d37bf5818b9521cfed0ea80a4232010ce13ef"
+  },
+  "revision": "c6d6cf3cc3e57f4b71d49462dba75cf3145a79bdc1867cadb1df8fd5d5e05f21"
+}
